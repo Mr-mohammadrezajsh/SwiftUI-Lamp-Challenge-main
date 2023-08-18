@@ -1,6 +1,6 @@
 # SwiftUI-Lamp-Challenge
 
-![Lamp](https://github.com/MarsXan/SwiftUI-Lamp-Challenge/blob/main/statics/lamp2.gif)
+![Lamp](https://github.com/MR-MOHAMMADREZAJSH/SwiftUI-Lamp-Challenge/blob/main/statics/lamp2.gif)
 
 ***
 

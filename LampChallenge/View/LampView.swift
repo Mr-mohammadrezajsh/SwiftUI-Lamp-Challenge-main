@@ -26,7 +26,7 @@ struct LampView: View {
                         .resizable()
                         .aspectRatio(contentMode: .fit)
                        
-                    Text("Telperion was the elder of the Two Trees of Valinor, called the White Tree, which shed silver light on the domain of the Valar. His leaves were of dark green, shining silver beneath, and his boughs were decked with brilliant flowers that shed a rain of silver dew, which was collected as a source of water and of light:).")
+                    Text("Telperion was the elder of the Two Trees of Valinor, called the White Tree, which shed silver light on the domain of the Valar. His leaves were of dark green, shining silver beneath, and his boughs were decked with brilliant flowers that shed a rain of silver dew, which was collected as a source of water and of light.")
                         .font(.body)
                         .foregroundColor(.black)
                         .padding(.horizontal)
